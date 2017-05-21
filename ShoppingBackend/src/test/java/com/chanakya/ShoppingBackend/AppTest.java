@@ -1,4 +1,4 @@
-package com.chanakya.shoppingBackend;
+package com.chanakya.ShoppingBackend;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
